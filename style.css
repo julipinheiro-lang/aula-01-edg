@@ -37,3 +37,27 @@ nav ul li a {
 nav ul li a:hover{
     color: brown;
 }
+
+section{
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 0 5px 8px rgb(224, 33, 164);
+}
+section h2{
+    color: black;
+}
+
+section ul li{
+    margin: 8px 0;
+}
+
+footer{
+    text-align: center;
+    padding: 15px;
+    background-color: rgba(251, 120, 192, 0.75);
+    color: '''''''''''''''rgb(19, 19, 20);
+    margin-top: 30px;
+}
